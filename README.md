@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,5 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
