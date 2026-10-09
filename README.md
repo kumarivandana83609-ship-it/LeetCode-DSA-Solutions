@@ -40,6 +40,7 @@
 | [0035-search-insert-position](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0069-sqrtx](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/kumarivandana83609-ship-it/LeetCode-DSA-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
 | ------- |
